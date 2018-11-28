@@ -1,0 +1,6 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/elia/Desktop/Elia/Studies/Data Structures/הגשות/hw2"
+-- Configuring done
+CMake Error: CMake can not determine linker language for target: library1.h
+CMake Error: Cannot determine link language for target "library1.h".
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/elia/Desktop/Elia/Studies/Data Structures/×”×’×©×•×ª/hw2/cmake-build-debug

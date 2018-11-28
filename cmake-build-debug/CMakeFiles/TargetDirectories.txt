@@ -1,0 +1,3 @@
+/mnt/c/Users/elia/Desktop/Elia/Studies/Data Structures/הגשות/hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/elia/Desktop/Elia/Studies/Data Structures/הגשות/hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/elia/Desktop/Elia/Studies/Data Structures/הגשות/hw2/cmake-build-debug/CMakeFiles/library1.h.dir
